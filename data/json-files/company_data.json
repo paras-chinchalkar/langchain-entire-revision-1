@@ -1,0 +1,26 @@
+{
+  "comapany": "TechCorp",
+  "employees": [
+    {
+      "Product": "Wireless Mouse",
+      "Category": "Electronics",
+      "Price": 25.99,
+      "Stock": 120,
+      "Description": "Ergonomic wireless mouse with 2.4GHz connectivity."
+    },
+    {
+      "Product": "Yoga Mat",
+      "Category": "Fitness",
+      "Price": 15.5,
+      "Stock": 80,
+      "Description": "Eco-friendly mat with non-slip surface."
+    },
+    {
+      "Product": "Coffee Maker",
+      "Category": "Home Appliances",
+      "Price": 89.0,
+      "Stock": 45,
+      "Description": "Programmable coffee maker with 12-cup capacity."
+    }
+  ]
+}
