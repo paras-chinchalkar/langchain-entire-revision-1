@@ -20,3 +20,5 @@ langchain_huggingface
 sentence_transformers
 vectorstores
 
+langchain-experimental
+
