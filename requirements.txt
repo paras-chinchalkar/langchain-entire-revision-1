@@ -19,6 +19,7 @@ matplotlib
 langchain_huggingface
 sentence_transformers
 vectorstores
-
+rank_bm25
 langchain-experimental
 
+wikipedia

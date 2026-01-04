@@ -1,0 +1,3 @@
+
+    MachineLearning: "Machine learning is a field of artificial intelligence that focuses on creating algorithms and models that enable computers to learn patterns and relationships from data without being explicitly programmed. Instead of following fixed rules, machine learning systems improve their performance over time as they are exposed to more information. It encompasses techniques such as supervised learning, where models are trained on labeled data to make predictions, and unsupervised learning, where systems discover hidden structures in unlabeled data. Machine learning is widely used in applications like recommendation systems, fraud detection, predictive analytics, and medical diagnosis, making it a cornerstone of modern AI.",
+    
